@@ -9,4 +9,5 @@ then
 	git commit -m 'initial commit'
 	git remote add origin https://github.com/msmariano/$projeto.git
 	git push -u origin master
+	echo 'Sucesso!'
 fi
